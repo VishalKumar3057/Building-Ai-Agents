@@ -4,4 +4,16 @@ phidata
 sqlalchemy
 pgvector
 psycopg
-psycopg-binary
+psycopg-binary 
+nest_asyncio 
+beautifulsoup4 
+duckduckgo-search 
+pypdf 
+ollama
+psycopg2-binary
+llama_index
+llama-index-llms-ollama
+llama-index-core 
+llama-index-readers-file 
+llama-index-embeddings-huggingface
+llama_index.llms.groq
