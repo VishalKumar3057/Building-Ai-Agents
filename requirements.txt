@@ -1,0 +1,7 @@
+openai 
+chainlit
+phidata
+sqlalchemy
+pgvector
+psycopg
+psycopg-binary
